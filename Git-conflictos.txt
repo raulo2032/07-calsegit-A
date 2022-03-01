@@ -1,0 +1,14 @@
+CONFLICTOS GIT
+
+Git puede ocuparse de la mayoría de las fusiones por sí mismo con funciones de fusión automáticas. Surge un conflicto cuando dos ramas independientes han editado la misma línea de un archivo o cuando un archivo se ha eliminado en una rama, pero editado en la otra.
+
+¿Cómo resuelves conflictos en Git?
+
+Ramas y resolución de conflictos en git
+
+- Creamos una rama basada en otra.
+- Trabajamos en la nueva rama.
+- Guardamos los cambios.
+- Nos ubicamos en la rama que queremos unir los cambios.
+- Fusionamos los cambios.
+
